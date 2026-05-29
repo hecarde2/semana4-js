@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop Dell XPS 13",
+      "precio": 1299.99,
+      "descripcion": "Laptop ultraligera con procesador Intel i7 de 11ª generación"
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse Logitech MX Master 3",
+      "precio": 99.99,
+      "descripcion": "Mouse inalámbrico profesional con múltiples botones configurables"
+    },
+    {
+      "id": 3,
+      "nombre": "Monitor Samsung 4K 32 pulgadas",
+      "precio": 599.99,
+      "descripcion": "Monitor 4K con tecnología IPS para edición de video"
+    },
+    {
+      "id": 4,
+      "nombre": "Teclado Mecánico RGB",
+      "precio": 159.99,
+      "descripcion": "Teclado mecánico con iluminación RGB personalizables"
+    }
+  ]
+}
